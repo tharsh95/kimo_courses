@@ -1,6 +1,6 @@
 ## Clone the repo
 
-## Before strating the app
+## Before starting the app
 ```bash
 python3 scripts/load_courses.py
 ```
@@ -10,4 +10,4 @@ python3 scripts/load_courses.py
 uvicorn main:app --reload
 ```
 
-### Refer the collections
+### Refer the collection for endpoint details
